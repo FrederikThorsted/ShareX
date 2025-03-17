@@ -117,4 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="btnCenter.Text" xml:space="preserve">
+    <value>Indsæt billede i center</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - indsæt billede</value>
+  </data>
+  <data name="btnCanvasExpandDown.Text" xml:space="preserve">
+    <value>Indsæt billede nedenfor (udvid lærred)</value>
+  </data>
+  <data name="btnCanvasExpandRight.Text" xml:space="preserve">
+    <value>Indsæt billede til højre (udvid lærred)</value>
+  </data>
 </root>
